@@ -212,7 +212,3 @@ python -m pytest --cov=app
 | Package Manager | [uv](https://github.com/astral-sh/uv) |
 
 ---
-
-## License
-
-MIT — see [LICENSE](./LICENSE)
